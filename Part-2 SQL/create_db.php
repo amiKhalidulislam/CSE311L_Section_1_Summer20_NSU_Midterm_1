@@ -1,6 +1,6 @@
 <?php
 
-$link = mysqli_connect('localhost','root','mid_term');
+$link = mysqli_connect('localhost','root','Midterm-su');
 
 if($link == false)
 {
